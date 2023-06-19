@@ -10,6 +10,7 @@ body {
   background-image: url(../img/1685152342_fons-pibig-info-p-fon-serdtsa-vkontakte-12.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+height: 100vh;
 }
 .container {
   max-width: 1000px;
